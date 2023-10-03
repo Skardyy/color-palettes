@@ -1,4 +1,4 @@
-# color-palletes  
+# color-palettes  
 ## dracula  
 * foreground?1: #1d2027
 * foreground?2: #282a36
