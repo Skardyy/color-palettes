@@ -6,3 +6,6 @@
 * green: #50fa7b
 * pink: #ff79c6
 * orange: #ffb86c
+* white: #f8f8f2
+* yellow: #f1fa8c
+* red: #ff5555
